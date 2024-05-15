@@ -14,6 +14,7 @@
 - A user can filter baookings baes on the status and sort them.
 - A user can add, update, delete cabins.
 - A user can update hotel settings such as maximum number of nights per a stay and so on.
+- Dark Mode.
 ```
 
 ### Technologies used:
