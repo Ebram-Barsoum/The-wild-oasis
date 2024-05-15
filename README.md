@@ -29,3 +29,7 @@
 - recharts for building a nice dashboard.
 - Supabase for building the back-end.
 ```
+
+### The App Home Page
+
+!["The wild oasis home page"](https://github.com/Ebram-Barsoum/The-wild-oasis/blob/main/the-wild-oasis.png)
